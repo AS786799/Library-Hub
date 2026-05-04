@@ -1,3 +1,10 @@
+Library Hub is a full stack web application built using the MERN stack to manage books efficiently.
+
+*) Developed REST APIs for CRUD operations
+*) Integrated frontend using React
+*) Implemented search functionality
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
